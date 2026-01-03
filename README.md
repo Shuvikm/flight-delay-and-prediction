@@ -4,6 +4,8 @@
 This project predicts flight delays using historical aviation data and machine learning algorithms.
 By analyzing factors such as airline, departure time, origin, destination, and weather conditions, the system predicts whether a flight will be delayed or on time.
 
+It useses xg  boost as training model
+
 This project is built for learning purposes and demonstrates a complete end-to-end ML workflow.
 
 🎯 Objectives
