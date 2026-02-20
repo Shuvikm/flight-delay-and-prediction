@@ -52,7 +52,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
+Jupyter Notebook,notion
 
 🔄 Project Workflow
 
